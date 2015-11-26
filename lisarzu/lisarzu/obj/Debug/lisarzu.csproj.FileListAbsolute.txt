@@ -1,0 +1,20 @@
+c:\users\robert\documents\visual studio 2012\Projects\lisarzu\lisarzu\bin\Debug\lisarzu.exe.config
+c:\users\robert\documents\visual studio 2012\Projects\lisarzu\lisarzu\bin\Debug\lisarzu.exe
+c:\users\robert\documents\visual studio 2012\Projects\lisarzu\lisarzu\bin\Debug\lisarzu.pdb
+c:\users\robert\documents\visual studio 2012\Projects\lisarzu\lisarzu\obj\Debug\lisarzu.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2012\Projects\lisarzu\lisarzu\obj\Debug\lisarzu.Form1.resources
+c:\users\robert\documents\visual studio 2012\Projects\lisarzu\lisarzu\obj\Debug\lisarzu.Properties.Resources.resources
+c:\users\robert\documents\visual studio 2012\Projects\lisarzu\lisarzu\obj\Debug\lisarzu.rysuj.resources
+c:\users\robert\documents\visual studio 2012\Projects\lisarzu\lisarzu\obj\Debug\lisarzu.csproj.GenerateResource.Cache
+c:\users\robert\documents\visual studio 2012\Projects\lisarzu\lisarzu\obj\Debug\lisarzu.exe
+c:\users\robert\documents\visual studio 2012\Projects\lisarzu\lisarzu\obj\Debug\lisarzu.pdb
+C:\Users\Robert\lisarzu\lisarzu\bin\Debug\Lissaous.exe.config
+C:\Users\Robert\lisarzu\lisarzu\bin\Debug\Lissaous.exe
+C:\Users\Robert\lisarzu\lisarzu\bin\Debug\Lissaous.pdb
+C:\Users\Robert\lisarzu\lisarzu\obj\Debug\lisarzu.csprojResolveAssemblyReference.cache
+C:\Users\Robert\lisarzu\lisarzu\obj\Debug\lisarzu.Form1.resources
+C:\Users\Robert\lisarzu\lisarzu\obj\Debug\Lissaous.Properties.Resources.resources
+C:\Users\Robert\lisarzu\lisarzu\obj\Debug\lisarzu.rysuj.resources
+C:\Users\Robert\lisarzu\lisarzu\obj\Debug\lisarzu.csproj.GenerateResource.Cache
+C:\Users\Robert\lisarzu\lisarzu\obj\Debug\Lissaous.exe
+C:\Users\Robert\lisarzu\lisarzu\obj\Debug\Lissaous.pdb
